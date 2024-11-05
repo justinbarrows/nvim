@@ -217,8 +217,7 @@ return { -- LSP Configuration & Plugins
       bashls = {},
       graphql = {},
       cssls = {},
-      ltex = {},
-      texlab = {},
+      emmet_language_server = {},
     }
 
     -- Ensure the servers and tools above are installed
